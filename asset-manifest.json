@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MarcoPenza/robofriends/static/css/main.3bb8d4b2.chunk.css",
-    "main.js": "/MarcoPenza/robofriends/static/js/main.fd85b865.chunk.js",
-    "main.js.map": "/MarcoPenza/robofriends/static/js/main.fd85b865.chunk.js.map",
-    "runtime-main.js": "/MarcoPenza/robofriends/static/js/runtime-main.0ddb2e43.js",
-    "runtime-main.js.map": "/MarcoPenza/robofriends/static/js/runtime-main.0ddb2e43.js.map",
-    "static/js/2.3d5a3330.chunk.js": "/MarcoPenza/robofriends/static/js/2.3d5a3330.chunk.js",
-    "static/js/2.3d5a3330.chunk.js.map": "/MarcoPenza/robofriends/static/js/2.3d5a3330.chunk.js.map",
-    "index.html": "/MarcoPenza/robofriends/index.html",
-    "precache-manifest.c3778381628acefaada7d6c129e006ce.js": "/MarcoPenza/robofriends/precache-manifest.c3778381628acefaada7d6c129e006ce.js",
-    "service-worker.js": "/MarcoPenza/robofriends/service-worker.js",
-    "static/css/main.3bb8d4b2.chunk.css.map": "/MarcoPenza/robofriends/static/css/main.3bb8d4b2.chunk.css.map",
-    "static/js/2.3d5a3330.chunk.js.LICENSE.txt": "/MarcoPenza/robofriends/static/js/2.3d5a3330.chunk.js.LICENSE.txt"
+    "main.css": "/MarcoPenza/robofriends.git/static/css/main.3bb8d4b2.chunk.css",
+    "main.js": "/MarcoPenza/robofriends.git/static/js/main.ac715007.chunk.js",
+    "main.js.map": "/MarcoPenza/robofriends.git/static/js/main.ac715007.chunk.js.map",
+    "runtime-main.js": "/MarcoPenza/robofriends.git/static/js/runtime-main.179c02e9.js",
+    "runtime-main.js.map": "/MarcoPenza/robofriends.git/static/js/runtime-main.179c02e9.js.map",
+    "static/js/2.3d5a3330.chunk.js": "/MarcoPenza/robofriends.git/static/js/2.3d5a3330.chunk.js",
+    "static/js/2.3d5a3330.chunk.js.map": "/MarcoPenza/robofriends.git/static/js/2.3d5a3330.chunk.js.map",
+    "index.html": "/MarcoPenza/robofriends.git/index.html",
+    "precache-manifest.40ff2719472e3a4a49a2f9828b5eeda9.js": "/MarcoPenza/robofriends.git/precache-manifest.40ff2719472e3a4a49a2f9828b5eeda9.js",
+    "service-worker.js": "/MarcoPenza/robofriends.git/service-worker.js",
+    "static/css/main.3bb8d4b2.chunk.css.map": "/MarcoPenza/robofriends.git/static/css/main.3bb8d4b2.chunk.css.map",
+    "static/js/2.3d5a3330.chunk.js.LICENSE.txt": "/MarcoPenza/robofriends.git/static/js/2.3d5a3330.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ddb2e43.js",
+    "static/js/runtime-main.179c02e9.js",
     "static/js/2.3d5a3330.chunk.js",
     "static/css/main.3bb8d4b2.chunk.css",
-    "static/js/main.fd85b865.chunk.js"
+    "static/js/main.ac715007.chunk.js"
   ]
 }
