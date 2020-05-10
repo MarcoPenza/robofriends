@@ -1,0 +1,12 @@
+.CardList {
+    margin: auto;
+    padding: 3rem;
+    width: 90%;
+    height: 65%;
+    overflow: auto;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 300px);
+    grid-gap: 2rem;
+}
